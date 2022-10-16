@@ -2,6 +2,7 @@
 /.ipynb_checkpoints/*
 *-checkpoint.ipynb
 *.pyc
+*.zip
 /*/mnist/*
 static-files/*
 /*/novels/*
